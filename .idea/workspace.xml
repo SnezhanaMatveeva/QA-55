@@ -62,17 +62,21 @@
     <option name="LAST_COMMIT_MESSAGE" value=" initial commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="619" y="117" key="CommitChangelistDialog2" timestamp="1673437035968">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1673437147183">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="619" y="117" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1673437035968" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1673436951625">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1673437147183" />
+    <state x="619" y="117" key="CommitChangelistDialog2" timestamp="1673437097275">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1673436951625" />
-    <state x="771" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1673436971944">
+    <state x="619" y="117" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1673437097275" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1673437143418">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="771" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1032@0.0.1920.1032" timestamp="1673436971944" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1673437143418" />
+    <state x="771" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1673437152639">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="771" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1032@0.0.1920.1032" timestamp="1673437152639" />
   </component>
 </project>
