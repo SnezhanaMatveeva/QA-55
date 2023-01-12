@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="510d17c9-2e77-46a3-985a-5c4c37d0d44c" name="Default Changelist" comment=" initial commit">
+    <list default="true" id="510d17c9-2e77-46a3-985a-5c4c37d0d44c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673437611410</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary=" initial commit">
+      <created>1673548740264</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673548740264</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -103,18 +111,18 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1673437147183" />
-    <state x="619" y="117" key="CommitChangelistDialog2" timestamp="1673472195441">
+    <state x="619" y="117" key="CommitChangelistDialog2" timestamp="1673548739202">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="619" y="117" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1673472195441" />
+    <state x="619" y="117" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1673548739202" />
     <state x="793" y="418" width="357" height="195" key="Github.CreateGistDialog" timestamp="1673473977578">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="793" y="418" width="357" height="195" key="Github.CreateGistDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1673473977578" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1673473832494">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1673548756969">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1673473832494" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1673548756969" />
     <state x="771" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1673548721999">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
